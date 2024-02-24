@@ -16,4 +16,4 @@ python manage.py runserver
 
 ### 3. Testing
 
-After starting the development server, navigate to [http://127.0.0.1:8000](http://127.0.0.1:8000) in your web browser to test the application.
+After starting the development server, navigate to [http://127.0.0.1:8000/hello/](http://127.0.0.1:8000/hello/) in your web browser to test the application.
